@@ -11,7 +11,7 @@
   "require": {
     "php": ">=7.0",
     "larapack/dd": "^1.0",
-    "illuminate/support": "^5.*"
+    "illuminate/support": "^v5.*"
   },
   "require-dev": {
     "phpunit/phpunit": "~4.8 || ~5.0"
